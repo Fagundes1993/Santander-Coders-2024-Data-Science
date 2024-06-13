@@ -53,3 +53,5 @@ Arquivo pronto para ser commitado
 ## Github
 
 ## Git branch
+
+## Merging branches
