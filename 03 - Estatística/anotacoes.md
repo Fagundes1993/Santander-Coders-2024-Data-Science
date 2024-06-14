@@ -44,3 +44,10 @@ Os elementos são selecionados seguindo uma regra pré definida.
 
 Neste tipo de amostragem aleatória, a população (extensa) é dividida em miniaturas da população (não homogêneas) e seleciona uma amostra aleatória desses conglomerados.
 
+### Conclusão
+
+A estatística é uma coleção de métodos para planejar experimentos, oibter e organizar dados, resumi-los, analisá-los, interpretá-los e deles extrair conclusões. A estatística descritiva trata da organização, resumo e apresentação dos dados, a probabilidade trata dos eventos aleatórios e a estatísticas inferencial, busca, a partir de uma amostra, obter conclusões sobre a população.
+
+A obtenção de uma amostra é o processo de amostragem, que pode ser um processo probabilístico ou não probabilistico.
+
+Este conteúdo apresentou as abordagens de amostragem probabilística, mas também abordagens não-probabilisticas, que são alternativas em alguns casos específicos.
