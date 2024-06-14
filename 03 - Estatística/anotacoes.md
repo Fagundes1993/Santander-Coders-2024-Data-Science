@@ -36,6 +36,10 @@ A amostra aleatória simples pode ser realizada com ou sem reposição. No caso 
 
 Neste tipo de amostragem, a população é dividida em estratos homogênenos (grupos ccom elementos de características comuns) e é selecionada uma amostra de cada estrato.
 
+#### Amostra Sistemática
+
+Os elementos são selecionados seguindo uma regra pré definida.
+
 #### Amostra por conglomerados
 
 Neste tipo de amostragem aleatória, a população (extensa) é dividida em miniaturas da população (não homogêneas) e seleciona uma amostra aleatória desses conglomerados.
